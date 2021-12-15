@@ -16,18 +16,9 @@ Banco de Dados: MySQL 8.0.13
 
 Nome do banco: game-collection
 Tabela: gamesdb
+Script de Criação do DB no arquivo: script_criação_do_db.sql
+OBS.: Antes de executar o projeto, rode o script primeiro.
 
-Script:
-
-CREATE DATABASE `game-collection`;
-USE `game-collection`;
-CREATE TABLE `gamesdb` (
-  `id` int NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  `nome` VARCHAR(100) NOT NULL,
-  `desenv` VARCHAR(100),
-  `estilo` VARCHAR(100) NOT NULL,
-  `plataforma` VARCHAR(100) NOT NULL);
-  
 ==============================================================================
 
 
