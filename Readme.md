@@ -15,8 +15,11 @@ Banco de Dados: MySQL 8.0.13
 ==============================================================================
 
 Nome do banco: game-collection
+
 Tabela: gamesdb
+
 Script de Criação do DB no arquivo: script_criação_do_db.sql
+
 OBS.: Antes de executar o projeto, rode o script primeiro.
 
 ==============================================================================
