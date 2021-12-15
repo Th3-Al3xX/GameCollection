@@ -16,7 +16,7 @@
 
 	<header>
 		<nav class="navbar navbar-expand-md navbar-dark"
-			style="background-color: blue">
+			style="background-color: tomato">
 			<div>
 				<a href="#" class="navbar-brand">
 					Gerenciamento de Jogos WEB </a>
