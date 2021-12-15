@@ -18,6 +18,7 @@ Nome do banco: game-collection
 Tabela: gamesdb
 
 Script:
+
 CREATE DATABASE `game-collection`;
 USE `game-collection`;
 CREATE TABLE `gamesdb` (
