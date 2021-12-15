@@ -1,8 +1,8 @@
-Este È um projeto de finalizaÁ„o de curso da parceria Atos - UFN 2021
+Este √© um projeto de finaliza√ß√£o de curso da parceria Atos - UFN 2021
 
 Nome do Projeto: Game Collection
 
-Instuito: Cadastro de jogos pessoais no estilo de um inventt·rio
+Instuito: Cadastro de jogos pessoais no estilo de um inventt√°rio
 
 Tecnologias utilizadas: JSP, Servlet, JDBC, Bootstrap
 
@@ -16,17 +16,6 @@ Banco de Dados: MySQL 8.0.13
 
 Nome do banco: game-collection
 Tabela: gamesdb
-
-Estrutura:
-+------------+--------------+------+-----+---------+----------------+
-| Field      | Type         | Null | Key | Default | Extra          |
-+------------+--------------+------+-----+---------+----------------+
-| id         | int          | NO   | PRI | NULL    | auto_increment |
-| nome       | varchar(100) | NO   |     | NULL    |                |
-| desenv     | varchar(100) | YES  |     | NULL    |                |
-| estilo     | varchar(100) | NO   |     | NULL    |                |
-| plataforma | varchar(100) | NO   |     | NULL    |                |
-+------------+--------------+------+-----+---------+----------------+
 
 Script:
 CREATE TABLE gamesdb (
